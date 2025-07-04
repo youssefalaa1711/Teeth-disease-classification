@@ -8,9 +8,7 @@ This project develops a convolutional neural network (CNN) using TensorFlow/Kera
 ## 📁 Project Structure
 
 ```
-teeth-disease-classification/
-├── data/              # Contains Teeth_Dataset with Training, Validation, Testing folders
-├── model/             # Trained model file (e.g., teeth_model.h5)
+teeth-disease-classification             
 ├── notebooks/         # Main Jupyter Notebook used for training and evaluation
 ├── images/            # Saved output images (accuracy, loss, predictions)
 ├── README.md          # Project overview and usage instructions (this file)
